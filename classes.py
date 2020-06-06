@@ -3,7 +3,7 @@ import random as r
 
 class Timetable:
     '''
-    class
+    class describing the schedule for cabinets
     '''
     cabinets = {}
 
